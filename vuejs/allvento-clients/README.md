@@ -6,8 +6,8 @@ This is a CRUD VueJS-based Project for the AllVento Air Conditioners Company.
 
 To run in local mode:
 
-- Clone this Repository
-- Access the allvento-clients folder in your preferred terminal
+- Clone this Repository.
+- Access the allvento-clients folder in the terminal of your choice.
 - run the 'npm run serve' command.
 
 ## Main features
