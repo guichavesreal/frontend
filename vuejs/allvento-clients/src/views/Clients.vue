@@ -1,17 +1,28 @@
 <template>
-    <div class="clients">
-        <ClientList />
+  <div class="clients container">
+    <div>
+      <ClientList />
     </div>
+    <div>
+      <NewClientsForm v-on:add-client="addClient"></NewClientsForm>
+    </div>
+
+   
+
+
+
+  </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import ClientList from '@/components/ClientList'
+import ClientList from "@/components/ClientList";
+import NewClientsForm from "@/components/NewClientsForm";
 
 export default {
-  name: 'Clients',
+  name: "Clients",
   components: {
-    ClientList
+    ClientList,
+    NewClientsForm
   }
-}
+};
 </script>
