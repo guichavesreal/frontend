@@ -29,3 +29,7 @@ To run in local mode:
 ## About
 
 Author: Guilherme Chaves
+
+https://www.digitalocean.com/community/tutorials/vuejs-vue-modal-component
+https://appdividend.com/2018/04/21/vue-firebase-crud-example/
+https://www.treinaweb.com.br/blog/criando-uma-api-rest-com-o-spring-boot/
